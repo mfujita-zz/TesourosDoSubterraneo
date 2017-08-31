@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A5CDA5D4-D95F-2D7E-05DA-A5D9E6A817EF}") = "TesourosDoSubterraneo", "Assembly-CSharp.csproj", "{53C15FCB-39ED-73CF-6735-27FD6615B9AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53C15FCB-39ED-73CF-6735-27FD6615B9AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53C15FCB-39ED-73CF-6735-27FD6615B9AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53C15FCB-39ED-73CF-6735-27FD6615B9AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53C15FCB-39ED-73CF-6735-27FD6615B9AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
